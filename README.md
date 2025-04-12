@@ -44,3 +44,23 @@ The project uses three CSV files located in `C:\Guvi\Project_5`:
    ```bash
    git clone https://github.com/your-username/dmart-sales-analysis.git
    cd dmart-sales-analysis
+
+## Analytical Questions
+The pipeline answers the following questions, with results displayed in tabular format:
+
+- Total sales for each product category.
+- Customer with the highest number of purchases.
+- Average discount given across all sales.
+- Unique products sold in each region.
+- Total profit generated in each state.
+- Product sub-category with the highest sales.
+- Average age of customers in each segment.
+- Orders shipped in each shipping mode.
+- Total quantity of products sold in each city.
+- Customer segment with the highest profit margin.
+
+## Insights
+- Revenue Drivers: High-sales categories indicate key product lines to prioritize.
+- Customer Behavior: Top purchasers suggest opportunities for loyalty programs.
+- Profitability: Regional and state-level profit data highlight strong markets.
+- Operational Efficiency: Shipping mode distribution informs logistics optimization.
