@@ -33,18 +33,6 @@ The project uses three CSV files located in `C:\Guvi\Project_5`:
 - `README.md`: Project documentation (this file).
 - `.gitignore`: Excludes CSV files, notebook checkpoints, and temporary files (e.g., `__pycache__`, `*.csv`, `.ipynb_checkpoints/`).
 
-## Setup Instructions
-1. **Prerequisites**:
-   - Python 3.8 or later
-   - PySpark (`pip install pyspark`)
-   - Jupyter Notebook (optional, `pip install jupyter`)
-   - Java 8 or later (required for PySpark)
-   - CSV files placed in `C:\Guvi\Project_5`
-2. **Clone Repository**:
-   ```bash
-   git clone https://github.com/your-username/dmart-sales-analysis.git
-   cd dmart-sales-analysis
-
 ## Analytical Questions
 The pipeline answers the following questions, with results displayed in tabular format:
 
