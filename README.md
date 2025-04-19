@@ -48,7 +48,7 @@ The pipeline answers the following questions, with results displayed in tabular 
 - Customer segment with the highest profit margin.
 
 ## Insights
-- Revenue Drivers: High-sales categories indicate key product lines to prioritize.
-- Customer Behavior: Top purchasers suggest opportunities for loyalty programs.
-- Profitability: Regional and state-level profit data highlight strong markets.
-- Operational Efficiency: Shipping mode distribution informs logistics optimization.
+- **Revenue Drivers**: High-sales categories indicate key product lines to prioritize.
+- **Customer Behavior**: Top purchasers suggest opportunities for loyalty programs.
+- **Profitability**: Regional and state-level profit data highlight strong markets.
+- **Operational Efficiency**: Shipping mode distribution informs logistics optimization.
